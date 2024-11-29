@@ -1,4 +1,4 @@
-3. Music Store Data Analysis (SQL)
+# 3. Music Store Data Analysis (SQL)
    
 📝 Project Overview:
 Analyzing customer behavior and sales performance to drive marketing strategies.
